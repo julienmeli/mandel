@@ -1,0 +1,2 @@
+cc -I /../include/minilibx-linux main.c -L../include/minilibx-linux -lmlx -L/usr/lib/X11 -lXext -lX11 
+
